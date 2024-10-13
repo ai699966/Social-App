@@ -9,5 +9,5 @@ const FlexBetween = styled(Box)({
 
 
 
-export default FlexBetween
+export default FlexBetween;
   
